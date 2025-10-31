@@ -61,11 +61,10 @@
 
 ### 💭 Daily Routine
 
-```
-☕ Morning:   Read latest papers on arXiv
-💻 Day:       Code, experiment, analyze
-📊 Evening:   Write, document, publish
-🌙 Night:     Dream of convergent algorithms
+- ☕ **Morning:** Read latest papers on arXiv
+- 💻 **Day:** Code, experiment, analyze
+- 📊 **Evening:** Write, document, publish
+- 🌙 **Night:** Dream of convergent algorithms
 
 **Life Philosophy:** *"Understanding not merely what works, but WHY it works"*
 
