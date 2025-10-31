@@ -1,24 +1,22 @@
 <div align="center">
   <!-- Banner متحرک با گرادیانت -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehrdad%20Dastouri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Decoding%20Intelligence%20•%20One%20Spike%20at%20a%20Time&descAlignY=51&descAlign=50"/>
-</div>
-
-<div align="center">
+  
   <!-- Text متحرک سه خطی -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%A7%A0;Neuromorphic+Computing+Specialist+%E2%9A%A1;Building+the+Future+of+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  <!-- Profile Views و Social Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+    <a href="mailto:s.dastouri@alumni.sbu.ac.ir">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.researchgate.net/profile/Seyed-Dastouri">
+      <img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+    </a>
+    <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-red?style=flat&logo=google-maps&logoColor=white" alt="Location"/>
+  </p>
 </div>
-
-<!-- Profile Views و Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-  <a href="mailto:s.dastouri@alumni.sbu.ac.ir">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Seyed-Dastouri">
-    <img src="https://img.shields.io/badge/ResearchGate-Publications-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-red?style=flat&logo=google-maps&logoColor=white" alt="Location"/>
-</p>
 
 ---
 
@@ -29,7 +27,7 @@
 class MehrdadDastouri:
 """
 AI Researcher passionate about understanding 
-intelligence from first principles
+intelligence from first principles.
 """
 def __init__(self):
 self.role = "AI & ML Researcher"
@@ -213,8 +211,6 @@ return "Understanding not merely what works, but WHY it works"
 
 ## 🎯 Vision & Goals
 
-<div align="center">
-
 mermaid
 graph LR
 A[🎓 Ph.D. Journey] --> B[🔬 Theoretical Foundations]
@@ -230,14 +226,11 @@ style E fill:#10B981,stroke:#059669,color:#fff
 style F fill:#EF4444,stroke:#DC2626,color:#fff
 style G fill:#F59E0B,stroke:#D97706,color:#fff
 
-</div>
-
 ### 🚀 Current Focus
-
-- 🔬 **Research Direction**: Pursuing Ph.D. opportunities in AI/ML with emphasis on learning theory, convergence analysis, and adversarial robustness
-- 📚 **Technical Goal**: Developing provably convergent algorithms for neuromorphic systems with theoretical guarantees
-- 🌐 **Community Impact**: Contributing to open-source neuroscience and AI research, particularly in the snnTorch ecosystem
-- 💡 **Philosophy**: Bridging the gap between biological plausibility and computational efficiency in neural architectures
+- 🔬 **Research Direction**: Pursuing Ph.D. opportunities in AI/ML with emphasis on learning theory, convergence analysis, and adversarial robustness.
+- 📚 **Technical Goal**: Developing provably convergent algorithms for neuromorphic systems with theoretical guarantees.
+- 🌐 **Community Impact**: Contributing to open-source neuroscience and AI research, particularly in the snnTorch ecosystem.
+- 💡 **Philosophy**: Bridging the gap between biological plausibility and computational efficiency in neural architectures.
 
 ---
 
@@ -302,7 +295,5 @@ I'm passionate about working on projects at the intersection of <b>neuroscience<
 ### 🌟 Thank you for visiting! Let's build intelligent systems that understand themselves. 🌟
 
 <img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-*Last updated: October 31, 2025*
 
 </div>
