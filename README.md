@@ -169,6 +169,19 @@
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehrdadDastouri&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
+<br/>
+
+<div align="center">
+  
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
+
 ---
 
 ## 🔥 Featured Research & Projects
