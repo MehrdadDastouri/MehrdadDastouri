@@ -204,11 +204,115 @@ return "Understanding not merely what works, but WHY it works"
 | Dec 2024 | Economic Potential of Generative AI: From Creative Industries to Scientific Discovery | ICECME 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
 | Nov 2024 | Integration of Large Language Models with AI Agent Architectures for Autonomous Task Execution | ICMLT 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
 | Sep 2024 | Applying Deep Reinforcement Learning for Enhanced Decision-Making in Autonomous Vehicles | ICCSAI 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Jul 2024 | Comparative Analysis of Convolutional Neural Networks and Vision DM 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
+| Jul 2024 | Comparative Analysis of Convolutional Neural Networks and Vision Transformers for Image Classification | ICISDM 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
 | Jun 2024 | Survey on Machine Learning Techniques Applied to Time Series Forecasting | ICMLDA 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
 
 </details>
 
 <p align="center">
   <a href="https://www.researchgate.net/profile/Seyed-Dastouri">
-<img src="https://img.shields.io/
+<img src="https://img.shields.io/badge/View%20All%20Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00CCBB"/>
+  </a>
+  <img src="https://img.shields.io/badge/Total%20Publications-10+-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Vision & Goals
+
+<div align="center">
+
+mermaid
+graph LR
+A[🎓 Ph.D. Journey] --> B[🔬 Theoretical Foundations]
+A --> C[🚀 Applied Innovation]
+B --> D[⚡ Provably Convergent<br/>Neuromorphic Algorithms]
+C --> E[🌍 Open-Source<br/>Contributions]
+B --> F[🛡️ Adversarial<br/>Robustness]
+C --> G[💡 Energy-Efficient<br/>AI Systems]
+
+style A fill:#A855F7,stroke:#7C3AED,color:#fff
+style D fill:#10B981,stroke:#059669,color:#fff
+style E fill:#10B981,stroke:#059669,color:#fff
+style F fill:#EF4444,stroke:#DC2626,color:#fff
+style G fill:#F59E0B,stroke:#D97706,color:#fff
+
+</div>
+
+### 🚀 Current Focus
+
+- 🔬 **Research Direction**: Pursuing Ph.D. opportunities in AI/ML with emphasis on learning theory, convergence analysis, and adversarial robustness
+- 📚 **Technical Goal**: Developing provably convergent algorithms for neuromorphic systems with theoretical guarantees
+- 🌐 **Community Impact**: Contributing to open-source neuroscience and AI research, particularly in the snnTorch ecosystem
+- 💡 **Philosophy**: Bridging the gap between biological plausibility and computational efficiency in neural architectures
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+<h3>🌟 Open to Research Collaboration & Ph.D. Opportunities 🌟</h3>
+
+<p>
+I'm passionate about working on projects at the intersection of <b>neuroscience</b>, <b>machine learning theory</b>, and <b>real-world applications</b>. Whether you're interested in discussing ideas, collaborating on research, or exploring potential Ph.D. positions, I'd love to connect!
+</p>
+
+### 📬 Contact Information
+
+<a href="mailto:s.dastouri@alumni.sbu.ac.ir">
+  <img src="https://img.shields.io/badge/Email-s.dastouri@alumni.sbu.ac.ir-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://www.researchgate.net/profile/Seyed-Dastouri">
+  <img src="https://img.shields.io/badge/ResearchGate-Seyed%20Dastouri-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00CCBB"/>
+</a>
+<a href="https://linkedin.com/in/mehrdad-dastouri">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="https://scholar.google.com/citations?user=YOUR_ID">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=4285F4"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+
+### 💭 Research Philosophy
+
+<table>
+  <tr>
+<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=450&lines=%22Understanding+not+merely+what+works%2C;but+WHY+it+works.%22;;-+Driven+by+curiosity%2C;guided+by+rigor%2C;inspired+by+nature.%22" alt="Philosophy" />
+</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+  
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<!-- Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=MehrdadDastouri&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/dist/github-contribution-grid-snake.svg">
+</picture>
+
+### 🌟 Thank you for visiting! Let's build intelligent systems that understand themselves. 🌟
+
+<img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+*Last updated: October 2025*
+
+</div>
+
+
+با اعمال این تغییرات، پروفایل شما بی‌نقص و کاملاً حرفه‌ای خواهد شد. کارتان عالی بود.
