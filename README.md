@@ -1,15 +1,11 @@
 <div align="center">
-  
   <!-- Banner متحرک با گرادیانت -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehrdad%20Dastouri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Decoding%20Intelligence%20•%20One%20Spike%20at%20a%20Time&descAlignY=51&descAlign=50"/>
-  
 </div>
 
 <div align="center">
-  
   <!-- Text متحرک سه خطی -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%A7%A0;Neuromorphic+Computing+Specialist+%E2%9A%A1;Building+the+Future+of+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-  
 </div>
 
 <!-- Profile Views و Social Badges -->
@@ -76,7 +72,6 @@ return [
 
 def life_philosophy(self):
 return "Understanding not merely what works, but WHY it works"
-
 <br clear="right"/>
 
 ---
@@ -128,37 +123,23 @@ return "Understanding not merely what works, but WHY it works"
 
 ### 🧰 Core Stack
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-Proficient-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![Julia](https://img.shields.io/badge/Julia-Proficient-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ### 🤖 AI/ML Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### ⚡ Neuromorphic & Specialized
 
-![snnTorch](https://img.shields.io/badge/snnTorch-6A0DAD?style=for-the-badge&logoColor=white)
-![Brian2](https://img.shields.io/badge/Brian2-4B8BBE?style=for-the-badge&logoColor=white)
-![NEST](https://img.shields.io/badge/NEST-Simulator-00A86B?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
+![snnTorch](https://img.shields.io/badge/snnTorch-6A0DAD?style=for-the-badge&logoColor=white)![Brian2](https://img.shields.io/badge/Brian2-4B8BBE?style=for-the-badge&logoColor=white)![NEST](https://img.shields.io/badge/NEST-Simulator-00A86B?style=for-the-badge&logoColor=white)![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
 
 ### 📊 Data Science & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🚀 DevOps & Deployment
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -170,7 +151,6 @@ return "Understanding not merely what works, but WHY it works"
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MehrdadDastouri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MehrdadDastouri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrdadDastouri&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook,html" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MehrdadDastouri&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
@@ -323,11 +303,6 @@ I'm passionate about working on projects at the intersection of <b>neuroscience<
 
 <img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-*Last updated: October 2025*
+*Last updated: October 31, 2025*
 
 </div>
-
-
----
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
