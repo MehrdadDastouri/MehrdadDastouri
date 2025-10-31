@@ -38,26 +38,26 @@
 
 - 🎓 **M.Sc. Computer Science** (Data Mining) from Shahid Beheshti University
 - 📊 **GPA:** 3.7/4.0
-- 📝 **Thesis:** Convergence Analysis of STDP in Spiking Neural Networks
+- 📝 **Thesis:** Convergence Analysis of STDP in Recurrent Spiking Neural Networks
 - 📍 **Location:** Tehran, Iran 🇮🇷
 - 🔬 **Currently:** Open to Ph.D. opportunities
 
 ### 🧬 Research DNA
 
 **Core Interests:**
-- 🧠 Spiking Neural Networks
-- ⚡ Neuromorphic Computing  
-- 📐 Learning Theory & Convergence Analysis
+- 🧠 Spiking Neural Networks & Neuromorphic Computing
+- ⚡ Statistical Learning Theory & Convergence Analysis
+- 📐 Adversarial Robustness & Provable Guarantees
 
 **Applied Focus:**
-- 📈 Time Series Forecasting
-- 💰 DeFi Risk Modeling
-- 🚨 Anomaly Detection Systems
+- 📈 Time Series Forecasting & Market Intelligence
+- 💰 DeFi Risk Modeling & On-Chain Analytics
+- 🚨 Real-Time Anomaly Detection Systems
 
 **Emerging Areas:**
-- 🤖 In-Context Learning Dynamics
-- 🔋 Energy-Efficient AI
-- 🛡️ Adversarial Robustness
+- 🤖 In-Context Learning Dynamics in Transformers
+- 🔋 Energy-Efficient Neuromorphic Algorithms
+- 🛡️ Robust Machine Learning Systems
 
 ### 💭 Daily Routine
 
@@ -98,7 +98,7 @@
 
 > **Convergence Analysis of Spike-Timing-Dependent Plasticity in Recurrent Spiking Neural Networks**
 > 
-> Established rigorous mathematical guarantees for STDP convergence in recurrent architectures, bridging neuroscience and machine learning theory through Lyapunov stability analysis.
+> Established rigorous mathematical guarantees for STDP convergence in recurrent architectures through Lyapunov stability analysis. Demonstrated convergence under specific conditions and validated theoretical results on UCR time-series benchmarks.
 
 <details>
 <summary>📚 <b>Key Contributions (Click to expand)</b></summary>
@@ -120,15 +120,15 @@
 ### 🧰 Core Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-Proficient-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Advanced-000000?style=for-the-badge&logo=rust&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Proficient-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### 🤖 AI/ML Frameworks
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8A2BE2?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### ⚡ Neuromorphic & Specialized Tools
 
@@ -137,19 +137,19 @@
 ![NEST](https://img.shields.io/badge/NEST-Simulator-00A86B?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
 
-### 📊 Data Science & Visualization
+### 📊 Data Science & Backend
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🚀 DevOps & Deployment
+### 🚀 DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-3C3C3D?style=for-the-badge&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 </div>
 
@@ -190,10 +190,10 @@
 
 | 🎯 Project | 🔬 Description | 🛠️ Tech Stack | 📊 Status |
 |:-----------|:--------------|:--------------|:---------|
-| **SNN Convergence Framework** | Lyapunov-based stability analysis for STDP learning with provable convergence guarantees | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/-snnTorch-6A0DAD?style=flat) | 🟢 Active |
-| **DeFi Risk Intelligence** | Graph-theoretic systemic risk modeling using percolation theory & agent-based simulation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-orange?style=flat) | 🟢 Active |
-| **LLM Dynamics Lab** | Dynamical systems analysis of in-context learning & gradient flow patterns in transformers | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat) | 🟡 Research |
-| **Neuromorphic Sentinel** | Real-time SNN-based anomaly detection for crypto markets (40% energy reduction) | ![snnTorch](https://img.shields.io/badge/-snnTorch-6A0DAD?style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | 🟢 Deployed |
+| **SNN Convergence Toolkit** | Open-source Python library implementing Lyapunov stability analysis for STDP in recurrent SNNs | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/-snnTorch-6A0DAD?style=flat) | 🟢 Active |
+| **Statistical Learning Theory Framework** | Interactive educational platform for PAC learnability, VC dimension, and Rademacher complexity | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat) | 🟢 Active |
+| **Crypto Market Intelligence Dashboard** | Production-grade real-time monitoring system with WebSocket streams and time-series forecasting | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat) ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat) | 🟢 Deployed |
+| **DeFi Risk Monitoring API** | RESTful API for continuous assessment of lending protocol risks and liquidation cascades | ![Web3.py](https://img.shields.io/badge/-Web3.py-3C3C3D?style=flat) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat) | 🟢 Production |
 
 </div>
 
@@ -248,22 +248,22 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="64"/>
 <h4>🎓 Ph.D. Journey</h4>
-<p>Seeking opportunities in AI/ML with focus on learning theory</p>
+<p>Seeking opportunities in statistical learning theory and adversarial robustness</p>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/math.png" width="64"/>
 <h4>⚡ Provably Convergent Algorithms</h4>
-<p>Developing neuromorphic algorithms with theoretical guarantees</p>
+<p>Developing neuromorphic algorithms with rigorous theoretical guarantees</p>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="64"/>
-<h4>🌍 Open-Source Contributions</h4>
-<p>Contributing to neuroscience and AI research</p>
+<h4>🌍 Open-Source Impact</h4>
+<p>Building reproducible research tools and educational frameworks</p>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/shield.png" width="64"/>
-<h4>🛡️ Adversarial Robustness</h4>
-<p>Building robust and secure AI systems</p>
+<h4>🛡️ Robust Systems</h4>
+<p>Bridging theory and practice in production ML systems</p>
 </td>
 </tr>
 </table>
@@ -272,10 +272,10 @@
 
 ### 🔬 Current Focus
 
-- 🎓 **Research Direction**: Pursuing Ph.D. opportunities in AI/ML with emphasis on learning theory, convergence analysis, and adversarial robustness
-- 📚 **Technical Goal**: Developing provably convergent algorithms for neuromorphic systems with theoretical guarantees
-- 🌐 **Community Impact**: Contributing to open-source neuroscience and AI research, particularly in the snnTorch ecosystem
-- 💡 **Philosophy**: Bridging the gap between biological plausibility and computational efficiency in neural architectures
+- 🎓 **Research Direction**: Pursuing Ph.D. opportunities in statistical learning theory, convergence analysis, and adversarial robustness
+- 📚 **Technical Goal**: Developing provably convergent algorithms for neuromorphic systems with practical applications
+- 🌐 **Community Impact**: Contributing open-source implementations and reproducible experiments
+- 💡 **Philosophy**: Understanding fundamental mathematical principles governing adaptation in biologically-inspired systems
 
 ---
 
@@ -288,7 +288,7 @@
 <h3>🌟 Open to Research Collaboration & Ph.D. Opportunities 🌟</h3>
 
 <p>
-I'm passionate about working on projects at the intersection of <b>neuroscience</b>, <b>machine learning theory</b>, and <b>real-world applications</b>. Whether you're interested in discussing ideas, collaborating on research, or exploring potential Ph.D. positions, I'd love to connect!
+I'm passionate about working at the intersection of <b>theoretical foundations</b>, <b>neuromorphic computing</b>, and <b>real-world applications</b>. Whether you're interested in discussing ideas, collaborating on research, or exploring potential Ph.D. positions, I'd love to connect!
 </p>
 
 ### 📬 Contact Information
