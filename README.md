@@ -329,9 +329,3 @@ I'm passionate about working on projects at the intersection of <b>neuroscience<
 *Last updated: October 2025*
 
 </div>
-
-
----
-- استفاده از HTML Comments برای سازماندهی بهتر کد
-
-این نسخه **100% کار می‌کند** و مشکلی نخواهد داشت! 🚀✨
