@@ -338,6 +338,6 @@ I'm passionate about working at the intersection of <b>theoretical foundations</
 
 <img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-*Last updated: November 2025*
+*Last updated: December 2025*
 
 </div>
