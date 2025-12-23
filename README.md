@@ -1,6 +1,5 @@
 <div align="center">
   
-  <!-- Banner with Gradient -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mehrdad%20Dastouri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Decoding%20Intelligence%20•%20One%20Spike%20at%20a%20Time&descAlignY=55&descAlign=50"/>
   
 </div>
@@ -9,14 +8,12 @@
 
 <div align="center">
   
-  <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%A7%A0;Neuromorphic+Computing+Specialist+%E2%9A%A1;Building+the+Future+of+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%A7%A0;Blockchain+Analytics+%26+On-Chain+Intelligence+%F0%9F%94%97;Neuromorphic+Computing+Specialist+%E2%9A%A1;Building+the+Future+of+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
 <br/>
 
-<!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
   <a href="mailto:s.dastouri@alumni.sbu.ac.ir">
@@ -30,11 +27,36 @@
 
 ---
 
+## 🧬 Crypto Philosophy
+
+<div align="center">
+
+> *I don't study blockchain because it's trendy.*  
+> *I study it because it's the largest live experiment in market irrationality, game theory, and adversarial behavior ever created.*
+
+</div>
+
+| What Others See | What I See |
+|:----------------|:-----------|
+| 🐸 Memecoins | Stochastic social contagion models |
+| 🎁 Airdrops | Adversarial incentive design problems |
+| 💥 DeFi collapses | Nonlinear dynamical systems |
+| 👥 Sybil attacks | Graph-based identity failure modes |
+| 🖼️ NFT speculation | Behavioral finance in real-time |
+
+<div align="center">
+
+### **"Crypto is my lab. On-chain data is my dataset."**
+
+</div>
+
+---
+
 ## 🎯 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-**AI Researcher passionate about understanding intelligence from first principles**
+**AI Researcher & Crypto-Native Analyst passionate about understanding intelligence and markets from first principles**
 
 - 🎓 **M.Sc. Computer Science** (Data Mining) from Shahid Beheshti University
 - 📊 **GPA:** 3.7/4.0
@@ -49,6 +71,12 @@
 - ⚡ Statistical Learning Theory & Convergence Analysis
 - 📐 Adversarial Robustness & Provable Guarantees
 
+**Blockchain & DeFi Focus:**
+- 🛡️ **Fraud Detection:** Sybil clusters, wash trading, airdrop farmers
+- ⚠️ **Risk Analytics:** Liquidation cascades, systemic DeFi risk
+- 🔗 **Graph ML:** Community detection on transaction networks
+- 📈 **Market Microstructure:** MEV, orderflow, mempool dynamics
+
 **Applied Focus:**
 - 📈 Time Series Forecasting & Market Intelligence
 - 💰 DeFi Risk Modeling & On-Chain Analytics
@@ -62,9 +90,9 @@
 ### 💭 Daily Routine
 
 - ☕ **Morning:** Read latest papers on arXiv
-- 💻 **Day:** Code, experiment, analyze
+- 💻 **Day:** Code, experiment, analyze on-chain data
 - 📊 **Evening:** Write, document, publish
-- 🌙 **Night:** Dream of convergent algorithms
+- 🌙 **Night:** Dream of convergent algorithms & alpha
 
 **Life Philosophy:** *"Understanding not merely what works, but WHY it works"*
 
@@ -94,23 +122,6 @@
   </tr>
 </table>
 
-### 🎓 Master's Thesis Highlight
-
-> **Convergence Analysis of Spike-Timing-Dependent Plasticity in Recurrent Spiking Neural Networks**
-> 
-> Established rigorous mathematical guarantees for STDP convergence in recurrent architectures through Lyapunov stability analysis. Demonstrated convergence under specific conditions and validated theoretical results on UCR time-series benchmarks.
-
-<details>
-<summary>📚 <b>Key Contributions (Click to expand)</b></summary>
-<br>
-
-- ✅ First comprehensive stability analysis of STDP in recurrent SNNs
-- ✅ Novel Lyapunov function construction for temporal learning
-- ✅ Provable convergence bounds under biologically plausible constraints
-- ✅ Framework applicable to broader class of spike-based learning rules
-  
-</details>
-
 ---
 
 ## 🛠️ Technology Arsenal
@@ -137,6 +148,15 @@
 ![NEST](https://img.shields.io/badge/NEST-Simulator-00A86B?style=for-the-badge&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
 
+### 🔗 Blockchain & Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-3C3C3D?style=for-the-badge&logoColor=white)
+![TheGraph](https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logoColor=white)
+![Dune](https://img.shields.io/badge/Dune_Analytics-FF6B35?style=for-the-badge&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=for-the-badge&logoColor=white)
+
 ### 📊 Data Science & Backend
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -148,8 +168,8 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=white)
-![Web3.py](https://img.shields.io/badge/Web3.py-3C3C3D?style=for-the-badge&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -173,7 +193,6 @@
 
 <div align="center">
   
-  <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake.svg">
@@ -188,156 +207,197 @@
 
 <div align="center">
 
-| 🎯 Project | 🔬 Description | 🛠️ Tech Stack | 📊 Status |
-|:-----------|:--------------|:--------------|:---------|
-| **SNN Convergence Toolkit** | Open-source Python library implementing Lyapunov stability analysis for STDP in recurrent SNNs | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/-snnTorch-6A0DAD?style=flat) | 🟢 Active |
-| **Statistical Learning Theory Framework** | Interactive educational platform for PAC learnability, VC dimension, and Rademacher complexity | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat) | 🟢 Active |
-| **Crypto Market Intelligence Dashboard** | Production-grade real-time monitoring system with WebSocket streams and time-series forecasting | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat) ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat) | 🟢 Deployed |
-| **DeFi Risk Monitoring API** | RESTful API for continuous assessment of lending protocol risks and liquidation cascades | ![Web3.py](https://img.shields.io/badge/-Web3.py-3C3C3D?style=flat) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat) | 🟢 Production |
+| 🎯 Project | 🔬 Focus Area | 🛠️ Tech Stack | 📊 Status |
+|:-----------|:-------------|:--------------|:---------|
+| **[Airdrop Sybil Detection System](#-airdrop-sybil-detection-system)** | Fraud Detection | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NetworkX](https://img.shields.io/badge/-NetworkX-4B8BBE?style=flat) ![Web3.py](https://img.shields.io/badge/-Web3.py-3C3C3D?style=flat) | 🟡 Active |
+| **[DeFi Liquidation Cascade Predictor](#-defi-liquidation-cascade-predictor)** | Systemic Risk | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat) | 🟢 Live |
+| **[NFT Wash Trading Detection](#-nft-wash-trading-detection)** | Market Manipulation | ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![sklearn](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Dune](https://img.shields.io/badge/-Dune-FF6B35?style=flat) | 🟡 Building |
+| **[SNN Convergence Toolkit](#-snn-convergence-toolkit)** | Neural Theory | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![snnTorch](https://img.shields.io/badge/-snnTorch-6A0DAD?style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) | 🟢 Released |
 
 </div>
 
 ---
 
-## 📝 Recent Publications
+### 🛡️ Airdrop Sybil Detection System
 
-<details open>
-<summary><b>🎓 2025 Publications (Click to collapse)</b></summary>
+<div align="center">
+<img src="https://img.shields.io/badge/Focus-Sybil_Detection-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Method-Graph_Neural_Networks-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-LayerZero_|_zkSync-purple?style=for-the-badge" />
+</div>
+
 <br>
 
-| 📅 Date | 📄 Title | 🏛️ Venue | 🔗 Link |
-|:--------|:---------|:----------|:--------|
-| Mar 2025 | Development of AI Algorithms for Optimizing Drug Release Profiles in Drug-Eluting Implants | ICSEERT 2025 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Mar 2025 | Advanced AI Techniques for Predicting Drug Permeability Across Biological Membranes | ICSEERT 2025 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Feb 2025 | Application of Generative AI in Protein Folding and Structure Prediction | ICRAEIT 2025 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Jan 2025 | Fundamentals of Spiking Neural Networks: Architecture, Learning, and Applications | ICEECS 2025 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
+**The Problem:** Protocols distribute millions in airdrops, but Sybil farmers capture disproport
+# Mehrdad Dastouri
 
-</details>
+**AI Researcher • Blockchain Analytics • On-Chain Intelligence**
 
-<details>
-<summary><b>🎓 2024 Publications (Click to expand)</b></summary>
-<br>
-
-| 📅 Date | 📄 Title | 🏛️ Venue | 🔗 Link |
-|:--------|:---------|:----------|:--------|
-| Dec 2024 | Economic Potential of Generative AI: From Creative Industries to Scientific Discovery | ICECME 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Nov 2024 | Integration of Large Language Models with AI Agent Architectures for Autonomous Task Execution | ICMLT 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Sep 2024 | Applying Deep Reinforcement Learning for Enhanced Decision-Making in Autonomous Vehicles | ICCSAI 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Jul 2024 | Comparative Analysis of Convolutional Neural Networks and Vision Transformers for Image Classification | ICISDM 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-| Jun 2024 | Survey on Machine Learning Techniques Applied to Time Series Forecasting | ICMLDA 2024 | [View](https://www.researchgate.net/profile/Seyed-Dastouri) |
-
-</details>
-
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Seyed-Dastouri">
-    <img src="https://img.shields.io/badge/View%20All%20Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00CCBB"/>
-  </a>
-  <img src="https://img.shields.io/badge/Total%20Publications-10+-success?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</p>
+📍 Tehran, Iran  
+📧 s.dastouri@alumni.sbu.ac.ir  
+🔬 ResearchGate: Seyed-Dastouri  
 
 ---
 
-## 🎯 Vision & Goals
+## 🧬 Crypto Philosophy
 
-<div align="center">
+> **Crypto is my lab. On-chain data is my dataset.**
 
-### 🚀 My Research Journey
+I don’t approach blockchain as a hype cycle. I approach it as the largest live experiment in adversarial markets, incentive design, and collective irrationality ever deployed.
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="64"/>
-<h4>🎓 Ph.D. Journey</h4>
-<p>Seeking opportunities in statistical learning theory and adversarial robustness</p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/math.png" width="64"/>
-<h4>⚡ Provably Convergent Algorithms</h4>
-<p>Developing neuromorphic algorithms with rigorous theoretical guarantees</p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="64"/>
-<h4>🌍 Open-Source Impact</h4>
-<p>Building reproducible research tools and educational frameworks</p>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/shield.png" width="64"/>
-<h4>🛡️ Robust Systems</h4>
-<p>Bridging theory and practice in production ML systems</p>
-</td>
-</tr>
-</table>
+- Memecoins → social contagion under extreme noise  
+- Airdrops → adversarial incentive optimization  
+- DeFi crashes → nonlinear dynamical systems  
+- Sybil attacks → graph-based identity failure  
+- NFTs → real-time behavioral finance  
 
-</div>
-
-### 🔬 Current Focus
-
-- 🎓 **Research Direction**: Pursuing Ph.D. opportunities in statistical learning theory, convergence analysis, and adversarial robustness
-- 📚 **Technical Goal**: Developing provably convergent algorithms for neuromorphic systems with practical applications
-- 🌐 **Community Impact**: Contributing open-source implementations and reproducible experiments
-- 💡 **Philosophy**: Understanding fundamental mathematical principles governing adaptation in biologically-inspired systems
+Crypto allows me to study markets **as they happen**, with full transparency and immutable ground truth.
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🎯 About Me
 
-<div align="center">
+I am an **AI and machine learning researcher** with a strong focus on **blockchain analytics, graph-based intelligence, and systemic risk modeling**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
+- 🎓 M.Sc. in Computer Science (Data Mining), Shahid Beheshti University  
+- 📊 GPA: 3.7 / 4.0  
+- 🔬 Research Focus: theoretical learning dynamics + applied on-chain intelligence  
+- 🚀 Currently open to Ph.D. opportunities  
 
-<h3>🌟 Open to Research Collaboration & Ph.D. Opportunities 🌟</h3>
+### Core Interests
 
-<p>
-I'm passionate about working at the intersection of <b>theoretical foundations</b>, <b>neuromorphic computing</b>, and <b>real-world applications</b>. Whether you're interested in discussing ideas, collaborating on research, or exploring potential Ph.D. positions, I'd love to connect!
-</p>
-
-### 📬 Contact Information
-
-<a href="mailto:s.dastouri@alumni.sbu.ac.ir">
-  <img src="https://img.shields.io/badge/Email-s.dastouri@alumni.sbu.ac.ir-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
-</a>
-<a href="https://www.researchgate.net/profile/Seyed-Dastouri">
-  <img src="https://img.shields.io/badge/ResearchGate-Seyed%20Dastouri-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00CCBB"/>
-</a>
-<a href="https://linkedin.com/in/mehrdad-dastouri">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-</a>
-<a href="https://scholar.google.com/citations?user=YOUR_ID">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=4285F4"/>
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2"/>
-
-</div>
+- Graph Machine Learning & Community Detection  
+- DeFi Risk Analytics & Liquidation Dynamics  
+- Fraud Detection (Sybil, Wash Trading, MEV)  
+- Time-Series Modeling for Financial Systems  
+- Spiking Neural Networks & Neuromorphic Learning  
 
 ---
 
-<div align="center">
+## 🔥 Featured Blockchain Research Projects
 
-### 💭 Research Philosophy
+### 🛡️ Airdrop Sybil Detection System
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%22Understanding+not+merely+what+works%2C;but+WHY+it+works.%22" alt="Philosophy" />
+**Goal:** Detect coordinated Sybil clusters farming large-scale airdrops  
+**Chains / Protocols:** LayerZero, zkSync  
 
-<br/>
+**Approach:**
+- Construct transaction and interaction graphs of claimant wallets  
+- Extract behavioral features:
+  - Funding timing similarity
+  - Wallet creation bursts
+  - Contract interaction overlap
+  - Gas usage patterns
+- Apply:
+  - Graph community detection
+  - Graph Neural Networks for cluster classification
 
-*Driven by curiosity, guided by rigor, inspired by nature.*
+**Tech Stack:**
+- PyTorch  
+- NetworkX  
+- Web3.py  
 
-</div>
+**Outcome:** Identification of high-confidence Sybil clusters competing against genuine users.
 
 ---
 
-<div align="center">
-  
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+### ⚠️ DeFi Liquidation Cascade Predictor
 
-<!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=MehrdadDastouri&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+**Goal:** Predict liquidation cascades and systemic risk under price shocks  
+**Protocols:** Aave, Compound  
 
-### 🌟 Thank you for visiting! Let's build intelligent systems that understand themselves. 🌟
+**Approach:**
+- Model borrower health factors as a dynamic time series  
+- Simulate correlated price drops across assets  
+- Detect tipping points where forced liquidations propagate
 
-<img src="https://komarev.com/ghpvc/?username=MehrdadDastouri&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+**Architecture:**
+- On-chain data ingestion → TimescaleDB  
+- Risk model service → FastAPI  
+- Alerting & monitoring pipeline  
 
-*Last updated: December 2025*
+**Tech Stack:**
+- Python  
+- FastAPI  
+- TimescaleDB  
 
-</div>
+**Outcome:** Early-warning signals for DeFi-wide stress events before liquidation spirals occur.
+
+---
+
+### 🖼️ NFT Wash Trading Detection
+
+**Goal:** Detect artificial volume and price manipulation in NFT markets  
+**Focus Chains:** Blast, Base (low tooling, high noise)  
+
+**Approach:**
+- Build directed transaction graphs of NFT transfers  
+- Detect:
+  - Circular ownership paths
+  - Recurrent buyer–seller loops
+  - Price anomalies disconnected from market activity
+- Apply graph-based anomaly detection and clustering
+
+**Tech Stack:**
+- Neo4j  
+- scikit-learn  
+- Dune Analytics  
+
+**Outcome:** Identification of coordinated wash trading rings in emerging NFT ecosystems.
+
+---
+
+## 🧠 Parallel Research Track: Learning Theory
+
+Alongside crypto research, I actively work on **theoretical learning systems**:
+
+- Convergence analysis of STDP in recurrent spiking neural networks  
+- Stability analysis via Lyapunov methods  
+- Energy-efficient neuromorphic learning algorithms  
+
+This theoretical grounding informs how I reason about **learning, adaptation, and instability** in on-chain markets.
+
+---
+
+## 🛠️ Technical Stack
+
+**Languages**
+- Python, Rust, MATLAB  
+
+**Machine Learning**
+- PyTorch, TensorFlow, JAX, scikit-learn  
+
+**Graph & Blockchain**
+- NetworkX, Neo4j, Web3.py, The Graph, Dune  
+
+**Backend & Data**
+- FastAPI, PostgreSQL, TimescaleDB, Redis  
+
+**Infrastructure**
+- Docker, Celery  
+
+---
+
+## 🧭 Research Ethos
+
+- I prioritize **first principles over heuristics**  
+- I treat markets as **learning systems under constraints**  
+- I value **interpretability, robustness, and realism**  
+
+> I’m not interested in models that only work in clean datasets.  
+> I’m interested in models that survive **adversarial, irrational, on-chain reality**.
+
+---
+
+## 🤝 Collaboration
+
+I’m always open to collaboration on:
+
+- Blockchain analytics & fraud detection  
+- DeFi risk modeling  
+- Graph ML and market intelligence  
+- Applied learning theory  
+
+If your problem lives **on-chain**, chances are I want to study it.
+
+---
