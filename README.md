@@ -38,7 +38,7 @@
 
 - 🎓 **M.Sc. Computer Science** (Data Mining) from Shahid Beheshti University
 - 📊 **GPA:** 3.7/4.0
-- 📍 **Location:** Tehran, Iran 🇮🇷
+- 📍 **Location:** Isfahan, Iran 🇮🇷
 - 🔬 **Currently:** Open to Ph.D. opportunities
 
 
