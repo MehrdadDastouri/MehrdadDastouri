@@ -41,7 +41,7 @@
 - 📍 **Location:** Tehran, Iran 🇮🇷
 - 🔬 **Currently:** Open to Ph.D. opportunities
 
-### 🧬 Research DNA
+
 
 **Core Interests:**
 - 🧠 Spiking Neural Networks & Neuromorphic Computing
