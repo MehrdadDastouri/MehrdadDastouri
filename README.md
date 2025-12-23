@@ -38,7 +38,6 @@
 
 - 🎓 **M.Sc. Computer Science** (Data Mining) from Shahid Beheshti University
 - 📊 **GPA:** 3.7/4.0
-- 📝 **Thesis:** Convergence Analysis of STDP in Recurrent Spiking Neural Networks
 - 📍 **Location:** Tehran, Iran 🇮🇷
 - 🔬 **Currently:** Open to Ph.D. opportunities
 
