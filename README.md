@@ -93,23 +93,6 @@
   </tr>
 </table>
 
-### 🎓 Master's Thesis Highlight
-
-> **Convergence Analysis of Spike-Timing-Dependent Plasticity in Recurrent Spiking Neural Networks**
-> 
-> Established rigorous mathematical guarantees for STDP convergence in recurrent architectures through Lyapunov stability analysis. Demonstrated convergence under specific conditions and validated theoretical results on UCR time-series benchmarks.
-
-<details>
-<summary>📚 <b>Key Contributions (Click to expand)</b></summary>
-<br>
-
-- ✅ First comprehensive stability analysis of STDP in recurrent SNNs
-- ✅ Novel Lyapunov function construction for temporal learning
-- ✅ Provable convergence bounds under biologically plausible constraints
-- ✅ Framework applicable to broader class of spike-based learning rules
-  
-</details>
-
 ---
 
 ## 🛠️ Technology Arsenal
