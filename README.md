@@ -16,3 +16,9 @@
   │  "Formulating robust autonomous systems under non-stationary regimes,  │
   │   adversarial information asymmetry, and structural state drift."      │
   └────────────────────────────────────────────────────────────────────────┘
+🔬 Research VectorsDistributionally Robust Optimization & RL: Minimax Bellman formulations, uncertainty sets over 1-Wasserstein balls, and policy stabilization under severe distribution shifts.Financial Microstructure & Information Economics: Modeling toxic vs. benign order flow, adverse selection dynamics, Order Flow Imbalance (OFI), and cross-venue latency arbitrage.Algorithmic Game Theory: Leader-Follower (Stackelberg) equilibrium dynamics, closed-form rational agent best-responses, and mechanism incentive alignment.Stochastic Control & Convergence: Lyapunov stability verification, boundary conditions, and parameter dynamics in non-stationary stochastic environments.🛠️ Technical StackYAMLLanguages:         [Python, C++, Julia, SQL, Bash]
+Mathematical & ML: [PyTorch, NumPy, SciPy, CVXPY, Scikit-Learn]
+Data Engineering:  [Polars, Pandas, DuckDB, TimescaleDB]
+Infrastructure:    [Docker, Linux/HPC, FastAPI, Git, Make]
+Verification:      [Pytest, Hypothesis, Deterministic Seeding]
+💻 System Architectures & FrameworksSystem / PrototypeScope & FormulationToolingRobust Policy EngineMinimax reinforcement learning environment evaluating policy divergence and worst-case transition distributions.PyTorch CVXPY GymnasiumHigh-Frequency Ingestion PipelineEvent-driven architecture aligning sub-second public market feeds with decentralized transaction execution traces.Polars DuckDBVectorized Microstructure SimulatorDiscrete-time simulation engine modeling endogenous price impact, informed arbitrage, and fee-elastic demand arrival.Python NumPy SciPyNonlinear Dynamics AnalyzerComputational toolkit evaluating Lyapunov stability boundaries and phase-plane trajectories in continuous state spaces.SciPy PyTorch
