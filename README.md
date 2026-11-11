@@ -2,70 +2,60 @@
 
 # Mehrdad Dastouri
 ### Quantitative Machine Learning Researcher & Systems Engineer
-**Research Core:** Distributionally Robust RL • Financial Microstructure • Algorithmic Game Theory
+**Core Focus:** Market Microstructure • Stochastic Point Processes • Distributionally Robust Systems
 
-[![Website](https://img.shields.io/badge/Portfolio-dastouri.dev-161b22?style=flat-square&logo=googlechrome&logoColor=c9d1d9)](https://mehrdaddastouri.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/mehrdad-dastouri)
-[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=c9d1d9)](mailto:s.dastouri@alumni.sbu.ac.ir)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Citations-161b22?style=flat-square&logo=googlescholar&logoColor=c9d1d9)](https://scholar.google.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/mehrdad-dastouri)
+[![Email](https://img.shields.io/badge/Email-Contact-161b22?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:s.dastouri@alumni.sbu.ac.ir)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-161b22?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/MehrdadDastouri)
 
 <br/>
 
-> *"Formulating robust autonomous systems under non-stationary regimes, adversarial information asymmetry, and structural state drift."*
+> *"Engineering deterministic, zero-allocation matching infrastructure and modeling endogenous reflexivity in financial microstructure."*
 
 </div>
 
 ---
 
-### 🔬 Research Vectors
+### 🔬 Research & Engineering Vectors
 
-* **Distributionally Robust Optimization & RL:** Minimax Bellman formulations, uncertainty sets over 1-Wasserstein balls, and policy stabilization under severe distribution shifts.
-* **Financial Microstructure & Information Economics:** Modeling toxic vs. benign order flow, adverse selection dynamics, Order Flow Imbalance (OFI), and cross-venue latency arbitrage.
-* **Algorithmic Game Theory:** Leader-Follower (Stackelberg) equilibrium dynamics, closed-form rational agent best-responses, and mechanism incentive alignment.
-* **Stochastic Control & Convergence:** Lyapunov stability verification, boundary conditions, and parameter dynamics in non-stationary stochastic environments.
-
----
-
-### 🛠️ Technical Stack
-
-* **Core Languages:** `Python`, `C++`, `Julia`, `SQL`, `Bash`
-* **Mathematical & ML:** `PyTorch`, `NumPy`, `SciPy`, `CVXPY`, `Scikit-Learn`
-* **Data Engineering:** `Polars`, `Pandas`, `DuckDB`, `TimescaleDB`
-* **Infrastructure & MLOps:** `Docker`, `Linux/HPC`, `FastAPI`, `Git`, `Make`
-* **Verification & Testing:** `Pytest`, `Hypothesis`, `Deterministic Seeding`
+* **Market Microstructure & Order Flow Dynamics:** FIFO queue priority tracking, cancellation hazard modeling, Order Flow Imbalance (OFI), and analytical fill probabilities.
+* **Self-Exciting Point Processes:** Linear-time $\mathcal{O}(N)$ Hawkes intensity evaluation, Ogata thinning simulation, and branching ratio estimation under endogenous feedback.
+* **Distributionally Robust Optimization:** Minimax formulations over Wasserstein ambiguity balls and policy stabilization under severe non-stationary regime shifts.
+* **Low-Latency Systems Engineering:** Cache-conscious memory layouts (`__slots__`), deterministic latency bounds, and sub-microsecond state mutations in Python & C++.
 
 ---
 
-### 💻 System Architectures & Frameworks
+### 🛠️ Core Technical Stack
 
-| System / Prototype | Scope & Formulation | Tooling |
+* **Languages:** `Python`, `C++`, `Julia`, `Bash`
+* **Quantitative & Math:** `NumPy`, `SciPy`, `PyTorch`, `CVXPY`
+* **Telemetry & Storage:** `DuckDB`, `Polars`, `TimescaleDB`
+* **Infrastructure & Tooling:** `Linux`, `Docker`, `Git`, `GitHub Actions (CI/CD)`, `Pytest`
+
+---
+
+### 🚀 Open-Source Microstructure Stack
+
+| Repository | Focus & Architecture | Key Metric / Benchmark |
 | :--- | :--- | :---: |
-| **Robust Policy Engine** | Minimax reinforcement learning environment evaluating policy divergence and worst-case transition distributions. | `PyTorch` `CVXPY` `Gymnasium` |
-| **High-Frequency Ingestion Pipeline** | Event-driven architecture aligning sub-second public market feeds with decentralized transaction execution traces. | `Polars` `DuckDB` |
-| **Vectorized Microstructure Simulator** | Discrete-time simulation engine modeling endogenous price impact, informed arbitrage, and fee-elastic demand arrival. | `Python` `NumPy` `SciPy` |
-| **Nonlinear Dynamics Analyzer** | Computational toolkit evaluating Lyapunov stability boundaries and phase-plane trajectories in continuous state spaces. | `SciPy` `PyTorch` |
+| [**`nano-lob`**](https://github.com/MehrdadDastouri/nano-lob) | Zero-allocation LOB matching engine with price-time FIFO priority, FOK/IOC pre-flights, and STP execution policies. | **210k+ ops/s** • P50: **3.2 µs** |
+| [**`queue-pos`**](https://github.com/MehrdadDastouri/queue-pos) | Deterministic FIFO queue position tracker and analytical fill probability estimator under asymmetric cancellation hazards. | **810k+ updates/s** • P50: **0.9 µs** |
+| [**`hawkes-flow`**](https://github.com/MehrdadDastouri/hawkes-flow) | High-throughput self-exciting point process engine with $\mathcal{O}(N)$ Ogata recursive intensity and constrained MLE calibration. | $\mathcal{O}(N)$ vs $\mathcal{O}(N^2)$ Exact |
+| [**`flow-tui`**](https://github.com/MehrdadDastouri/flow-tui) | Real-time terminal telemetry interface for L2 order book feeds, liquidity imbalance metrics, and micro-price tracking. | Real-time TUI |
 
 ---
 
-### 📊 Telemetry & Activity
+### 📊 Engineering Activity
 
 <div align="center">
 
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=MehrdadDastouri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9" alt="GitHub Stats" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrdadDastouri&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9&hide=html,css,jupyter%20notebook" alt="Top Languages" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake.svg">
-  <img width="95%" alt="Contribution Graph" src="https://raw.githubusercontent.com/MehrdadDastouri/MehrdadDastouri/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img height="135em" src="https://github-readme-stats.vercel.app/api?username=MehrdadDastouri&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&title_color=c9d1d9" alt="GitHub Stats" />
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrdadDastouri&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=8b949e&title_color=c9d1d9&hide=html,css,jupyter%20notebook" alt="Top Languages" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub>Engineered with mathematical rigor • Focused on computational efficiency</sub>
+<sub>Engineered with mathematical rigor • Focused on computational determinism</sub>
 </div>
